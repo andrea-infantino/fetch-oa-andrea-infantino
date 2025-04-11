@@ -1,0 +1,26 @@
+# Maven output
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Node (if frontend later)
+node_modules/
+
+# Spring Boot specific
+application.properties
+
+# Ignore test reports
+/surefire-reports/
+
+/HELP.md

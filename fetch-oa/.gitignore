@@ -2,6 +2,11 @@
 /target/
 !.mvn/wrapper/maven-wrapper.jar
 
+# Build artifacts
+*.jar
+*.war
+*.tar
+
 # IDEs
 .idea/
 .vscode/
